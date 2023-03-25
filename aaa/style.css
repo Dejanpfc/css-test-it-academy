@@ -15,6 +15,6 @@ a[target]{
     content: " NEW";
     color: yellow;
 }
-#last-paragraf:hover {
+p:hover:nth-child(8) {
     font-style: italic;
 }
